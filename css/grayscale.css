@@ -144,7 +144,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    padding: 100px 0;
+    padding: 200px 0;
     text-align: center;
     color: #fff;
     background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
@@ -258,12 +258,12 @@ a:focus {
 }
 
 .content-section {
-    padding: 11% 5%;
+    padding: 25% 5%;
 }
 
 .music-section {
     width: 100%;
-    padding: 8% 5%;
+    padding: 20% 5%;
     color: #fff;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: #000;
