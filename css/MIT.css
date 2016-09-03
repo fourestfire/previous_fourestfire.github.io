@@ -22,6 +22,13 @@ header h1 a, header h1 a:hover{
 h1 i{
 	font-size: 45px;
 }
+
+/* added to highlight word in header */
+
+header b{
+	color: #fff;
+}
+
 header p{
 	font-size: 18px;
 	color: #bbb;
@@ -70,7 +77,10 @@ header p{
 	padding-top: 0.1em;
 	padding-bottom: 0.1em;
 }
-.content .song-links a{
+
+/* Took out Larry's a after the following .content .song-links to apply styling to non-links as well */
+
+.content .song-links {
 	color: #CA6924;
 	font-weight: bold;
 	background: none;

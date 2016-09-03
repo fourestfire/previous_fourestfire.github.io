@@ -258,12 +258,12 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 100px;
+    padding: 11% 5%;
 }
 
 .music-section {
     width: 100%;
-    padding: 50px 0;
+    padding: 8% 5%;
     color: #fff;
     background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
     background-color: #000;
@@ -282,11 +282,11 @@ a:focus {
 /* Revisit padding-top */
 @media(min-width:767px) {
     .content-section {
-        padding-top: 200px;
+        padding: 11% 5%;
     }
 
     .music-section {
-        padding: 100px 0;
+        padding: 8% 5%;
     }
 
     #map {
